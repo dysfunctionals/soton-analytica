@@ -1,0 +1,9 @@
+[submodule "display"]
+	path = display
+	url = git@github.com:dysfunctionals/soton-analytica-display.git
+[submodule "server"]
+	path = server
+	url = git@github.com:dysfunctionals/soton-analytica-server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:dysfunctionals/soton-analytica-client.git
